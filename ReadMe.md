@@ -19,7 +19,5 @@ Moi c’est Haïtam !<br><br>🎓 Étudiant à la Web Academie by Epitech Lyon, 
 
 ![](https://github-contributor-stats.vercel.app/api?username=_hmrzak&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=_hmrzak&icon=4&color=10)](https://visitcount.itsvg.in)
 
 
